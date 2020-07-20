@@ -1,2 +1,5 @@
-# deteccao-eventos-raros
-Implementação de autoencoder para detecção de transações fraudulentas com base em dados de transações feitas em cartão de crédito.
+# Autoencoder: Detecção de anomalias
+
+  Este projeto é uma implementação de um autoencoder com o objetivo de detectar possíveis transações fraudulentas.
+  
+  Dataset usado:  https://www.kaggle.com/mlg-ulb/creditcardfraud
