@@ -2,7 +2,7 @@
 
   Este projeto é uma implementação de um autoencoder com o objetivo de detectar possíveis transações ilegais.
   Essa arquitetura de rede neural tem como objetivo dar uma saída mais semelhante possível á entrada, de modo que
-  seu aprendizado tenha comportamento igual a aproximação da função identidade hW,b(x)≈x
+  seu aprendizado tenha comportamento igual a aproximação da função identidade.
   
   Uma transação será classificada como legal ou ilegal com base no erro de reconstrução do algoritmo, calculado pela equação de erro quadrático médio.
   MSE é resultado da média do somátório da diferença entre os valores reais e preditos, elevados ao quadrado, conforme demonstra a seguinte equação. Esse valor deve ser minimizado ao máximo durante o treinamento.
